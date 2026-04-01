@@ -6,6 +6,15 @@ use App\Models\VideoGame;
 use App\Http\Resources\VideoGameResource;
 use Illuminate\Http\Request;
 
+/****
+ * Class VideoGameController
+ *
+ * Handles all REST API endpoints for the VideoGame resource.
+ * Supports listing, creating, reading, updating, and deleting video games.
+ *
+ * @package App\Http\Controllers
+ */
+
 class VideoGameController extends Controller
 {
     /**
