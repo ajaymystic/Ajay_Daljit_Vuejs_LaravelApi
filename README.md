@@ -4,7 +4,7 @@ A retro-themed full-stack web application built with a Laravel 8 REST API backen
 and a Vue 3 frontend. Browse, search, and filter a collection of video games by
 genre and platform, and click any game to view its full details and cover image.
 
-**Authors:** Ajay Chakaravarthy Antony Raj & Daljit  
+**Authors:** Ajay Chakaravarthy Antony Raj 
 **Course:** Multimedia and the Internet / Multimedia Authoring 4  
 **Semester:** Winter Semester 4
 
